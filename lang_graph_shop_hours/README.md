@@ -1,6 +1,6 @@
 show me how to write lang graph from scratch to get openning shop hours
 
-
+```
 shop-hours-langgraph/
 ├── requirements.txt
 ├── setup.sh
@@ -19,5 +19,7 @@ shop-hours-langgraph/
 │   └── mock_hours.json    # Mock data for testing
 └── tests/
     ├── __init__.py
+
+```
     ├── test_graph.py
     └── test_nodes.py
