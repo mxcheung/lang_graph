@@ -1,0 +1,21 @@
+$ python shop_hours_py313.py
+C:\software\Python\Python313\Lib\site-packages\langgraph\checkpoint\base\__init__.py:18: LangChainPendingDeprecationWarning: The default value of `allowed_objects` will change in a future version. Pass an explicit value (e.g., allowed_objects='messages' or allowed_objects='core') to suppress this warning.
+  from langgraph.checkpoint.serde.jsonplus import JsonPlusSerializer
+Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+Python path: C:\software\Python\Python313\python.exe
+[OK] LangChain loaded successfully
+
+==================================================
+  SHOP HOURS ASSISTANT
+==================================================
+  Available shops: starbucks, walmart, target, costco, best buy, home depot, lowes
+  Type 'exit' to quit
+==================================================
+[OK] LLM mode enabled
+
+[?] Ask about shop hours: bunnings
+
+[SEARCHING] ...
+
+[ERROR] LLM error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
