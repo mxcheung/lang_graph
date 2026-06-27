@@ -1,15 +1,22 @@
-# shop_hours_py313.py
+# shop_hours_working.py
 """
-Shop Hours Assistant - Compatible with Python 3.13
+Shop Hours Assistant - Windows Compatible (No Emojis)
+Works with Python 3.13
 """
 import sys
 import os
 from datetime import datetime
 from typing import Dict, List, Optional, Any, Tuple
 
+# ============== FIX WINDOWS ENCODING ==============
+if sys.platform == 'win32':
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+
 # ============== VERSION CHECK ==============
-print(f"🐍 Python version: {sys.version}")
-print(f"📍 Python path: {sys.executable}")
+print(f"Python version: {sys.version}")
+print(f"Python path: {sys.executable}")
 
 # ============== TRY IMPORTS WITH FALLBACKS ==============
 
@@ -29,10 +36,10 @@ try:
     from pydantic import BaseModel, Field
     from langgraph.graph import StateGraph, END
     LANGCHAIN_AVAILABLE = True
-    print("✅ LangChain loaded successfully")
+    print("[OK] LangChain loaded successfully")
 except ImportError as e:
-    print(f"ℹ️  LangChain not available: {e}")
-    print("🔄 Running in mock data mode only")
+    print(f"[INFO] LangChain not available: {e}")
+    print("[INFO] Running in mock data mode only")
 
 # ============== MOCK DATA ==============
 
@@ -81,6 +88,24 @@ MOCK_HOURS = {
         "Friday": "10:00 AM - 8:00 PM",
         "Saturday": "10:00 AM - 8:00 PM",
         "Sunday": "11:00 AM - 7:00 PM"
+    },
+    "home depot": {
+        "Monday": "6:00 AM - 10:00 PM",
+        "Tuesday": "6:00 AM - 10:00 PM",
+        "Wednesday": "6:00 AM - 10:00 PM",
+        "Thursday": "6:00 AM - 10:00 PM",
+        "Friday": "6:00 AM - 10:00 PM",
+        "Saturday": "6:00 AM - 10:00 PM",
+        "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "lowes": {
+        "Monday": "6:00 AM - 10:00 PM",
+        "Tuesday": "6:00 AM - 10:00 PM",
+        "Wednesday": "6:00 AM - 10:00 PM",
+        "Thursday": "6:00 AM - 10:00 PM",
+        "Friday": "6:00 AM - 10:00 PM",
+        "Saturday": "6:00 AM - 10:00 PM",
+        "Sunday": "8:00 AM - 8:00 PM"
     }
 }
 
@@ -111,12 +136,12 @@ def format_hours_response(shop_name: str, hours: Dict[str, str]) -> str:
     max_len = max(len(day) for day in hours.keys())
     
     for day, time in hours.items():
-        marker = "►" if day == today else " "
+        marker = ">>" if day == today else "  "
         lines.append(f"{marker} {day.ljust(max_len)} : {time}")
     
     lines.append("")
-    lines.append(f"Today: {today}")
-    lines.append(f"       {hours.get(today, 'Unknown')}")
+    lines.append(f"[Today: {today}]")
+    lines.append(f"  {hours.get(today, 'Unknown')}")
     lines.append("=" * 50)
     
     return "\n".join(lines)
@@ -127,7 +152,7 @@ def get_mock_hours(query: str) -> str:
     
     if not shop_name:
         available = ", ".join(MOCK_HOURS.keys())
-        return f"\n❌ Shop not found.\nAvailable shops: {available}\n"
+        return f"\n[ERROR] Shop not found.\nAvailable shops: {available}\n"
     
     return format_hours_response(shop_name, MOCK_HOURS[shop_name])
 
@@ -147,9 +172,9 @@ if LANGCHAIN_AVAILABLE:
                             temperature=0,
                             api_key=self.api_key
                         )
-                        print("✅ LLM mode enabled")
+                        print("[OK] LLM mode enabled")
                     except Exception as e:
-                        print(f"⚠️  LLM init failed: {e}")
+                        print(f"[WARN] LLM init failed: {e}")
                         self.use_llm = False
             
             def get_hours(self, query: str) -> str:
@@ -168,14 +193,14 @@ if LANGCHAIN_AVAILABLE:
                         
                         chain = prompt | self.llm
                         response = chain.invoke({})
-                        return f"\n🤖 LLM Response:\n{response.content}\n"
+                        return f"\n[LLM Response]\n{response.content}\n"
                     except Exception as e:
-                        return f"\n❌ LLM error: {e}\n"
+                        return f"\n[ERROR] LLM error: {e}\n"
                 
-                return f"\n❌ Shop not found.\nAvailable shops: {', '.join(MOCK_HOURS.keys())}\n"
+                return f"\n[ERROR] Shop not found.\nAvailable shops: {', '.join(MOCK_HOURS.keys())}\n"
     
     except Exception as e:
-        print(f"⚠️  LLM setup error: {e}")
+        print(f"[WARN] LLM setup error: {e}")
 
 # ============== INTERACTIVE MODE ==============
 
@@ -194,10 +219,10 @@ def interactive_mode():
         try:
             llm_handler = ShopHoursLLM()
         except Exception as e:
-            print(f"⚠️  LLM setup error: {e}")
+            print(f"[WARN] LLM setup error: {e}")
     
     while True:
-        query = input("\n🔍 Ask about shop hours: ").strip()
+        query = input("\n[?] Ask about shop hours: ").strip()
         
         if query.lower() in ['exit', 'quit', 'q']:
             print("\nGoodbye!")
@@ -206,7 +231,7 @@ def interactive_mode():
         if not query:
             continue
         
-        print("\n⏳ Searching...")
+        print("\n[SEARCHING] ...")
         
         if llm_handler and llm_handler.use_llm:
             result = llm_handler.get_hours(query)
