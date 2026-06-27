@@ -42,6 +42,8 @@ pip install -r requirements.txt
 # Set up environment variables
 cp .env.example .env
 # Edit .env and add your OPENAI_API_KEY
+```
+
 
 ```
 shop-hours-langgraph/
