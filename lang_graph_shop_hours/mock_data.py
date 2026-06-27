@@ -1,4 +1,4 @@
-# Simplified version with mock data
+# mock_data.py - Fixed version without emojis
 import json
 from typing import TypedDict, Optional
 from datetime import datetime
@@ -74,17 +74,16 @@ def get_shop_hours(state: ShopHoursState) -> ShopHoursState:
     hours = MOCK_HOURS[shop_name]
     today_hours = hours.get(current_day, "Unknown")
     
-    # Format response
-    response = f"🏪 {shop_name.title()} Opening Hours:\n\n"
+    # Format response WITHOUT emojis
+    response = f"[SHOP] {shop_name.title()} Opening Hours:\n\n"
     for day, time in hours.items():
-        response += f"• {day}: {time}\n"
+        response += f"  * {day}: {time}\n"
     
-    response += f"\n📅 Today ({current_day}): {today_hours}"
+    response += f"\n[Today] ({current_day}): {today_hours}"
     
     state["final_response"] = response
     return state
 
-# Simple graph implementation
 def run_shop_hours_pipeline(query: str) -> str:
     """Run the simplified pipeline"""
     state = {
@@ -110,7 +109,7 @@ if __name__ == "__main__":
         "What are Starbucks hours?",
         "When does Walmart open?",
         "Target hours please",
-        "Local bookstore hours"  # Will fail
+        "Local bookstore hours"
     ]
     
     for query in queries:
