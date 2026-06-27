@@ -1,0 +1,45 @@
+
+Q: What are Starbucks hours?
+[SHOP] Starbucks Opening Hours:
+
+  * Monday: 6:00 - 20:00
+  * Tuesday: 6:00 - 20:00
+  * Wednesday: 6:00 - 20:00
+  * Thursday: 6:00 - 20:00
+  * Friday: 6:00 - 21:00
+  * Saturday: 7:00 - 21:00
+  * Sunday: 7:00 - 19:00
+
+[Today] (Saturday): 7:00 - 21:00
+
+==================================================
+Q: When does Walmart open?
+[SHOP] Walmart Opening Hours:
+
+  * Monday: 6:00 - 23:00
+  * Tuesday: 6:00 - 23:00
+  * Wednesday: 6:00 - 23:00
+  * Thursday: 6:00 - 23:00
+  * Friday: 6:00 - 23:00
+  * Saturday: 6:00 - 23:00
+  * Sunday: 6:00 - 23:00
+
+[Today] (Saturday): 6:00 - 23:00
+
+==================================================
+Q: Target hours please
+[SHOP] Target Opening Hours:
+
+  * Monday: 8:00 - 22:00
+  * Tuesday: 8:00 - 22:00
+  * Wednesday: 8:00 - 22:00
+  * Thursday: 8:00 - 22:00
+  * Friday: 8:00 - 22:00
+  * Saturday: 8:00 - 22:00
+  * Sunday: 8:00 - 21:00
+
+[Today] (Saturday): 8:00 - 22:00
+
+==================================================
+Q: Local bookstore hours
+Error: Shop not found in database
