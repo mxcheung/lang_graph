@@ -19,7 +19,6 @@ shop-hours-langgraph/
 │   └── mock_hours.json    # Mock data for testing
 └── tests/
     ├── __init__.py
-
 ```
     ├── test_graph.py
     └── test_nodes.py
