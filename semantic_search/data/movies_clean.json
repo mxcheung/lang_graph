@@ -1,0 +1,1161 @@
+[
+  {
+    "id": 1,
+    "title": "Blade Runner",
+    "year": 1982,
+    "genres": [
+      "Science Fiction",
+      "Neo-Noir",
+      "Thriller"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "In a dystopian Los Angeles of 2019, a special police officer hunts down bioengineered humans called 'replicants' who have escaped to Earth. As he investigates, he begins to question the boundary between human and machine, and what makes a life worth living."
+  },
+  {
+    "id": 2,
+    "title": "The Matrix",
+    "year": 1999,
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "A computer programmer discovers that reality as he knows it is a simulated construct created by intelligent machines to subdue humanity. He joins a rebel group fighting to free humans trapped in this virtual prison and learns he may be the prophesied savior."
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "year": 2010,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "A skilled thief who steals corporate secrets by infiltrating the dreams of others is offered a chance at redemption. His new mission is the opposite of theft: plant an idea in a target's subconscious through layered dream worlds where time stretches and physics bends."
+  },
+  {
+    "id": 4,
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Adventure"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "As Earth becomes uninhabitable, a former pilot leads a team through a wormhole near Saturn in search of a new home for humanity. The journey takes the crew across galaxies and decades while gravitational time dilation costs the pilot precious years with his daughter."
+  },
+  {
+    "id": 5,
+    "title": "Arrival",
+    "year": 2016,
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "When twelve alien spacecraft appear at locations across Earth, a linguist is recruited to decipher the visitors' language. As she learns to communicate with them, she begins experiencing fragments of time in ways that reshape her understanding of memory, choice, and destiny."
+  },
+  {
+    "id": 6,
+    "title": "Ex Machina",
+    "year": 2014,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "A young programmer wins a week at the remote estate of his reclusive CEO , where he is asked to evaluate the consciousness of an advanced humanoid robot. As the tests unfold, the line between manipulation, attraction, and machine intelligence becomes dangerously blurred."
+  },
+  {
+    "id": 7,
+    "title": "Her",
+    "year": 2013,
+    "genres": [
+      "Science Fiction",
+      "Romance",
+      "Drama"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "A lonely writer in near-future Los Angeles purchases an advanced operating system with an empathetic, evolving female voice. Their relationship deepens into love, raising questions about intimacy, identity, and what it means to connect with an intelligence that exists everywhere at once."
+  },
+  {
+    "id": 8,
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "Following the discovery of a mysterious black monolith, a crewed spacecraft is sent to Jupiter accompanied by the sentient computer HAL 9000. The mission turns into a confrontation between man and machine, and ultimately a journey beyond the limits of human evolution."
+  },
+  {
+    "id": 9,
+    "title": "Star Wars: A New Hope",
+    "year": 1977,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "On a desert planet at the edge of a galactic war, a young farmer joins a rebellion against a tyrannical empire. With a wise mentor, a smuggler, and ancient mystical powers called the Force, he attempts to rescue a princess and destroy a planet-killing battle station."
+  },
+  {
+    "id": 10,
+    "title": "The Martian",
+    "year": 2015,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Adventure"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "An astronaut is left behind on Mars after his crew presumes him dead during an emergency evacuation. With limited supplies and no way to contact Earth, he uses botany, chemistry, and improvisation to survive while NASA scrambles to bring him home."
+  },
+  {
+    "id": 11,
+    "title": "Minority Report",
+    "year": 2002,
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Action"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "In a future where a specialized police unit prevents murders using the visions of three precognitive humans, a top officer is accused of a killing he hasn't yet committed. He goes on the run to uncover the truth behind the predictive system he once trusted."
+  },
+  {
+    "id": 12,
+    "title": "District 9",
+    "year": 2009,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "When a massive alien ship arrives over Johannesburg, its insect-like passengers are confined to a sprawling slum. A bureaucrat overseeing their relocation is exposed to alien biotechnology and begins a transformation that forces him to side with the species he was sent to displace."
+  },
+  {
+    "id": 13,
+    "title": "Children of Men",
+    "year": 2006,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Thriller"
+    ],
+    "primary_genre": "Science Fiction",
+    "summary": "In a near-future world where humans have become infertile and society has collapsed, a disillusioned former activist is asked to escort a miraculously pregnant young woman through war-torn Britain to a sanctuary that may not exist."
+  },
+  {
+    "id": 14,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "A young hobbit inherits a powerful ring that must be destroyed in the fires where it was forged. He sets out with a fellowship of warriors, wizards, and creatures across a vast magical land, pursued by dark forces seeking to reclaim the ring's terrible power."
+  },
+  {
+    "id": 15,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "An orphaned boy discovers on his eleventh birthday that he is a wizard and is invited to attend a hidden school of magic. There he makes loyal friends, learns spells and potions, and uncovers a plot tied to a powerful artifact and the dark wizard who killed his parents."
+  },
+  {
+    "id": 16,
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "War"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "In post-Civil War Spain, a young girl escapes the brutality of her stepfather's military world by entering a mysterious labyrinth where a faun gives her three magical tasks. The fantasy and the war begin to bleed into each other in haunting and brutal ways."
+  },
+  {
+    "id": 17,
+    "title": "The Princess Bride",
+    "year": 1987,
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Adventure"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "A grandfather reads a swashbuckling fairy tale to his sick grandson about a farm boy turned pirate who must rescue his true love from a scheming prince. The story features sword fights, giants, a vengeful swordsman, and a satirical heart beneath the romance."
+  },
+  {
+    "id": 18,
+    "title": "The NeverEnding Story",
+    "year": 1984,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "A bullied boy hides in a bookshop and begins reading a magical book about the fantasy realm of Fantasia, which is being consumed by a force called the Nothing. As he reads, he discovers that he may be the only one who can save the world inside the pages."
+  },
+  {
+    "id": 19,
+    "title": "Stardust",
+    "year": 2007,
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Adventure"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "A young man from a sleepy English village crosses a wall into a magical kingdom to retrieve a fallen star for the woman he believes he loves. The star turns out to be a young woman, pursued by witches and warring princes who seek her power for themselves."
+  },
+  {
+    "id": 20,
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": 2005,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "Four siblings sent to a country estate during World War II discover a wardrobe that opens into a snow-bound magical land cursed by a wicked white witch. Guided by a noble lion, they must lead the creatures of Narnia in a battle to break the eternal winter."
+  },
+  {
+    "id": 21,
+    "title": "Big Fish",
+    "year": 2003,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Adventure"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "A son returns home to reconcile with his dying father, a teller of tall tales about giants, witches, mermaids, and Siamese-twin singers. As the father's stories unfold in lavish flashback, the line between myth and the man's real life dissolves into something larger and more loving."
+  },
+  {
+    "id": 22,
+    "title": "Edward Scissorhands",
+    "year": 1990,
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Drama"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "A gentle artificial young man with blades for hands is brought from a hilltop mansion into a candy-colored suburb where his strangeness is first embraced and then feared. A delicate romance with the daughter of his adoptive family deepens against the town's growing cruelty."
+  },
+  {
+    "id": 23,
+    "title": "The Shape of Water",
+    "year": 2017,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Romance"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "A mute janitor at a secret 1960s government facility forms a wordless bond with a captive amphibian creature held in a tank. As the lab prepares to dissect the being, she conspires with friends to free him in a story of outsiders, longing, and quiet revolt."
+  },
+  {
+    "id": 24,
+    "title": "Spirited Away",
+    "year": 2001,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Adventure"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "A sulky young girl moving to a new town becomes trapped in a magical bathhouse for spirits after her parents are turned into pigs. To survive and free her family, she takes work under a sorceress and befriends a river dragon in the form of a boy."
+  },
+  {
+    "id": 25,
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Romance"
+    ],
+    "primary_genre": "Fantasy",
+    "summary": "A young hatmaker cursed by a witch into the body of an old woman finds refuge in the walking castle of a flamboyant, soft-hearted wizard. As war rages over the kingdom, she discovers her own strength while uncovering the bargain that binds the wizard to a fire demon."
+  },
+  {
+    "id": 26,
+    "title": "The Shining",
+    "year": 1980,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Drama"
+    ],
+    "primary_genre": "Horror",
+    "summary": "A struggling writer takes a winter caretaker job at a remote, snowbound hotel with his wife and psychic son. As cabin fever, supernatural visions, and the hotel's violent history close in, he descends into a madness that threatens his family's lives."
+  },
+  {
+    "id": 27,
+    "title": "Get Out",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "primary_genre": "Horror",
+    "summary": "A young Black photographer travels to meet his white girlfriend's wealthy family at their isolated estate for a weekend visit. The warm welcome conceals something disturbing about the household's Black servants, and an annual gathering turns into a fight for his life."
+  },
+  {
+    "id": 28,
+    "title": "Hereditary",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery"
+    ],
+    "primary_genre": "Horror",
+    "summary": "After the death of her secretive mother, a miniature artist and her family begin to experience escalating, inexplicable horrors. As the household unravels, ancient occult forces tied to the grandmother's hidden life consume each member in turn."
+  },
+  {
+    "id": 29,
+    "title": "The Exorcist",
+    "year": 1973,
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "primary_genre": "Horror",
+    "summary": "A famous actress in Washington watches her young daughter transform from a cheerful child into a violent, profane stranger possessed by a malevolent entity. Two Catholic priests are summoned to perform an exorcism that tests their faith and lives."
+  },
+  {
+    "id": 30,
+    "title": "A Nightmare on Elm Street",
+    "year": 1984,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "primary_genre": "Horror",
+    "summary": "A group of suburban teenagers discover they are being stalked in their dreams by a burned, blade-fingered killer tied to a buried crime their parents committed. To survive, they must find a way to fight an enemy who can only attack them when they sleep."
+  },
+  {
+    "id": 31,
+    "title": "The Conjuring",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "primary_genre": "Horror",
+    "summary": "A pair of real-life paranormal investigators are called to a Rhode Island farmhouse where a family of seven is being terrorized by an unseen presence. The case escalates into one of the most demanding exorcisms of their career."
+  },
+  {
+    "id": 32,
+    "title": "Halloween",
+    "year": 1978,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "primary_genre": "Horror",
+    "summary": "On Halloween night in a quiet Illinois suburb, an escaped, masked killer who murdered his sister as a child returns to stalk teenage babysitters. Only his frantic psychiatrist understands the depth of evil pursuing them."
+  },
+  {
+    "id": 33,
+    "title": "It Follows",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "primary_genre": "Horror",
+    "summary": "A young woman discovers that a sexual encounter has passed on a curse: a shape-shifting entity, visible only to her, will walk slowly and relentlessly toward her until it kills her. To survive, she must pass the curse on, or fight an enemy that never stops coming."
+  },
+  {
+    "id": 34,
+    "title": "The Babadook",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery"
+    ],
+    "primary_genre": "Horror",
+    "summary": "A grief-stricken widow and her difficult young son are tormented by a sinister figure that emerges from a pop-up children's book they read at bedtime. As the creature's presence grows, the mother's grip on reality and motherhood begins to crack."
+  },
+  {
+    "id": 35,
+    "title": "Midsommar",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery"
+    ],
+    "primary_genre": "Horror",
+    "summary": "A young woman reeling from a family tragedy joins her boyfriend and his friends at a remote Swedish festival held only once every ninety years. The endless summer daylight and the commune's smiling rituals slowly reveal an ancient and brutal logic."
+  },
+  {
+    "id": 36,
+    "title": "The Witch",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery"
+    ],
+    "primary_genre": "Horror",
+    "summary": "Banished from a Puritan plantation in 1630s New England, a devout family settles on the edge of a wilderness where their crops fail and their infant son vanishes. Paranoia, religious dread, and the suspicion of witchcraft tear the household apart."
+  },
+  {
+    "id": 37,
+    "title": "Psycho",
+    "year": 1960,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "primary_genre": "Horror",
+    "summary": "A secretary who has stolen money from her employer flees the city and stops for the night at a remote motel run by a shy young man and his dominating, unseen mother. What happens at the motel sets off an investigation into one of cinema's most disturbing minds."
+  },
+  {
+    "id": 38,
+    "title": "Pride and Prejudice",
+    "year": 2005,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "primary_genre": "Romance",
+    "summary": "In Regency-era England, a sharp-tongued young woman from a family of five daughters meets a proud, wealthy gentleman whom she initially despises. Misunderstandings, family pressure, and slowly recognized feelings push the pair toward a love both must earn."
+  },
+  {
+    "id": 39,
+    "title": "The Notebook",
+    "year": 2004,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "primary_genre": "Romance",
+    "summary": "A young couple in 1940s South Carolina fall passionately in love over a single summer before class and war pull them apart. Decades later, an elderly man reads their story aloud in a nursing home to a woman whose memories of him have slipped away."
+  },
+  {
+    "id": 40,
+    "title": "When Harry Met Sally",
+    "year": 1989,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primary_genre": "Romance",
+    "summary": "Two friends meet on a road trip from Chicago to New York and spend more than a decade arguing about whether men and women can ever truly be just friends. As their lives intersect again and again, the answer becomes more complicated than either expected."
+  },
+  {
+    "id": 41,
+    "title": "Casablanca",
+    "year": 1942,
+    "genres": [
+      "Romance",
+      "Drama",
+      "War"
+    ],
+    "primary_genre": "Romance",
+    "summary": "During World War II, the cynical owner of a nightclub in Morocco must choose between his rekindled love for a former flame and helping her resistance-leader husband escape the Nazis. Old wounds and new dangers meet in the smoke of his crowded café."
+  },
+  {
+    "id": 42,
+    "title": "Before Sunrise",
+    "year": 1995,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "primary_genre": "Romance",
+    "summary": "An American man and a French woman meet on a train through Europe and decide on impulse to spend a single night together walking the streets of Vienna. They talk about love, fate, and family until dawn forces them to decide whether to ever see each other again."
+  },
+  {
+    "id": 43,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Science Fiction"
+    ],
+    "primary_genre": "Romance",
+    "summary": "After a painful breakup, a shy man discovers his former girlfriend has had every memory of him erased and undergoes the same procedure himself. Inside the dreamlike process, he tries to hold on to her as their shared past is slowly unmade."
+  },
+  {
+    "id": 44,
+    "title": "La La Land",
+    "year": 2016,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Musical"
+    ],
+    "primary_genre": "Romance",
+    "summary": "In modern Los Angeles, an aspiring actress and a struggling jazz pianist fall in love while chasing their separate creative dreams. Their devotion to each other and to their ambitions begin to pull in opposite directions, set to song-and-dance numbers."
+  },
+  {
+    "id": 45,
+    "title": "Brokeback Mountain",
+    "year": 2005,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "primary_genre": "Romance",
+    "summary": "Two ranch hands hired to herd sheep on a Wyoming mountain in 1963 begin a passionate, secret love affair that continues across two decades of marriages, families, and brief reunions in the wilderness where it began."
+  },
+  {
+    "id": 46,
+    "title": "500 Days of Summer",
+    "year": 2009,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "primary_genre": "Romance",
+    "summary": "A romantic young greeting-card writer falls hard for a coworker who does not believe in lasting love. Their relationship unfolds out of order across five hundred days, revealing how memory rewrites the story of a love that was never quite mutual."
+  },
+  {
+    "id": 47,
+    "title": "Amelie",
+    "year": 2001,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primary_genre": "Romance",
+    "summary": "A shy waitress in Paris decides to secretly orchestrate small acts of kindness and mischief in the lives of those around her while struggling to act on her own attraction to a quirky stranger she keeps almost meeting."
+  },
+  {
+    "id": 48,
+    "title": "Lost in Translation",
+    "year": 2003,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "primary_genre": "Romance",
+    "summary": "A fading American movie star shooting a whiskey commercial in Tokyo and a young woman ignored by her photographer husband meet in a luxury hotel and form a tender, jet-lagged bond across long nights in an unfamiliar city."
+  },
+  {
+    "id": 49,
+    "title": "Call Me by Your Name",
+    "year": 2017,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "primary_genre": "Romance",
+    "summary": "In northern Italy in the summer of 1983, the teenage son of an academic and a young American graduate student hired by his father develop an intense romance in a sunlit villa over a season that will define both their lives."
+  },
+  {
+    "id": 50,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Adventure"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "The legendary concierge of a 1930s European mountain hotel and his loyal lobby boy become embroiled in the theft of a priceless painting and a struggle over an enormous family fortune across a country sliding toward war."
+  },
+  {
+    "id": 51,
+    "title": "Superbad",
+    "year": 2007,
+    "genres": [
+      "Comedy"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "Two awkward high school best friends and their nerdy classmate spend a chaotic night trying to buy alcohol for a party in hopes of finally connecting with the girls they have crushes on before they all go off to college."
+  },
+  {
+    "id": 52,
+    "title": "Bridesmaids",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "A struggling Milwaukee baker is asked to be maid of honor at her best friend's wedding, but quickly finds herself outclassed by a polished new bridesmaid. Her growing jealousy turns the bridal party into a series of spectacular disasters."
+  },
+  {
+    "id": 53,
+    "title": "Groundhog Day",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Fantasy"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "A cynical TV weatherman covering an annual small-town ceremony finds himself reliving the same February day over and over. His attempts to escape, manipulate, and finally accept the loop turn into a strange path toward becoming a better man."
+  },
+  {
+    "id": 54,
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "A laid-back Los Angeles bowler nicknamed The Dude is mistaken for a millionaire of the same name, drawing him into a kidnapping plot involving nihilists, pornographers, and a soiled rug that really tied his room together."
+  },
+  {
+    "id": 55,
+    "title": "Anchorman",
+    "year": 2004,
+    "genres": [
+      "Comedy"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "In 1970s San Diego, the smug top-rated TV news anchor and his absurd all-male broadcast team see their world upended by the arrival of an ambitious female reporter determined to break into the on-air ranks."
+  },
+  {
+    "id": 56,
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Adventure"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "King Arthur and his knights set out across a medieval Britain populated by killer rabbits, taunting Frenchmen, three-headed knights, and bickering peasants in a wildly silly quest to find the legendary Holy Grail."
+  },
+  {
+    "id": 57,
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Crime"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "After accidentally witnessing a 1929 Chicago mob hit, two desperate musicians disguise themselves as women and join an all-female band heading to Florida. Things grow more complicated when one falls for the band's troubled singer."
+  },
+  {
+    "id": 58,
+    "title": "Airplane!",
+    "year": 1980,
+    "genres": [
+      "Comedy"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "When the crew of a transcontinental flight is incapacitated by food poisoning, a traumatized former fighter pilot must overcome his fear of flying and land the jet with help from a stream of deadpan jokes and absurd visual gags."
+  },
+  {
+    "id": 59,
+    "title": "Borat",
+    "year": 2006,
+    "genres": [
+      "Comedy"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "A bumbling fictional Kazakh journalist travels across the United States to make a documentary, encountering real people whose reactions to his bizarre questions become a sharp satire of American attitudes about class, race, and identity."
+  },
+  {
+    "id": 60,
+    "title": "Tropic Thunder",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Action"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "A group of pampered Hollywood actors making an over-budget Vietnam War film are dropped into a real Southeast Asian jungle by their desperate director and mistaken for actual American soldiers by a drug-trafficking militia."
+  },
+  {
+    "id": 61,
+    "title": "Hot Fuzz",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Action",
+      "Mystery"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "A top London police officer is exiled to a sleepy English village where a series of supposedly accidental deaths turns out to be the work of a sinister local conspiracy obsessed with maintaining the town's perfect appearance."
+  },
+  {
+    "id": 62,
+    "title": "Napoleon Dynamite",
+    "year": 2004,
+    "genres": [
+      "Comedy"
+    ],
+    "primary_genre": "Comedy",
+    "summary": "An awkward, deadpan teenager in rural Idaho navigates the strangeness of high school, an inept brother shopping for an online bride, and a quirky friendship that pulls him into running an unlikely campaign for class president."
+  },
+  {
+    "id": 63,
+    "title": "Se7en",
+    "year": 1995,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "Two homicide detectives, one near retirement and one newly transferred, hunt a meticulous serial killer in a perpetually rainy city who is murdering his victims according to the seven deadly sins of Catholic tradition."
+  },
+  {
+    "id": 64,
+    "title": "Zodiac",
+    "year": 2007,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "A newspaper cartoonist becomes obsessed with the unsolved case of a coded-message-sending serial killer terrorizing the San Francisco Bay Area in the late 1960s and 1970s, as detectives and reporters chase a suspect they can never quite prove."
+  },
+  {
+    "id": 65,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Horror"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "A young FBI trainee is sent to interview an imprisoned cannibalistic psychiatrist to gain insight into another active serial killer who is skinning his female victims. Their unsettling conversations become a dangerous game of mutual revelation."
+  },
+  {
+    "id": 66,
+    "title": "Gone Girl",
+    "year": 2014,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "On the morning of his fifth wedding anniversary, a Missouri man's wife disappears under suspicious circumstances. As media attention turns him into the prime suspect, the truth of the marriage and the disappearance proves far stranger than the public narrative."
+  },
+  {
+    "id": 67,
+    "title": "Memento",
+    "year": 2000,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "A former insurance investigator unable to form new memories searches for the man who attacked him and killed his wife. He navigates a fragmented life of tattoos and Polaroids in a story told in reverse, where every clue raises the question of what he can trust."
+  },
+  {
+    "id": 68,
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "A West Texas welder stumbling on a drug deal gone wrong walks away with a satchel of cash and is pursued across the Southwest by a quietly terrifying hitman with his own rigid code. An aging sheriff tries to make sense of the violence in his wake."
+  },
+  {
+    "id": 69,
+    "title": "The Departed",
+    "year": 2006,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "An undercover Massachusetts state trooper infiltrates the South Boston Irish mob while a mole inside the police department feeds information back to the same crew. As each man closes in on the other's identity, both risk losing everything."
+  },
+  {
+    "id": 70,
+    "title": "Prisoners",
+    "year": 2013,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "After two young girls vanish on Thanksgiving in a small Pennsylvania town, a fiercely religious father, convinced the police have released the right suspect too quickly, takes the law into his own hands while a tenacious detective hunts for the truth."
+  },
+  {
+    "id": 71,
+    "title": "Mystic River",
+    "year": 2003,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "Three childhood friends from a Boston neighborhood, one of whom was abducted as a boy, are reunited as adults when the daughter of one of them is murdered. Old wounds, suspicion, and loyalty drive the men toward a devastating reckoning."
+  },
+  {
+    "id": 72,
+    "title": "Shutter Island",
+    "year": 2010,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "Two U.S. Marshals travel by ferry to a psychiatric facility on a remote island in 1954 to investigate the disappearance of a patient. The deeper they dig into the hospital's secrets, the more the case begins to threaten the lead marshal's grip on his own past."
+  },
+  {
+    "id": 73,
+    "title": "Nightcrawler",
+    "year": 2014,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "A driven, deeply unsettling petty thief discovers he can make a living filming crime scenes at night in Los Angeles and selling the footage to a local news station. His ambition pushes him to manipulate events, and people, to create more dramatic stories."
+  },
+  {
+    "id": 74,
+    "title": "Sicario",
+    "year": 2015,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Action"
+    ],
+    "primary_genre": "Thriller",
+    "summary": "An idealistic FBI agent is recruited to a shadowy U.S. task force operating along the Mexican border to dismantle a drug cartel. As tactics blur into vengeance, she realizes she is a pawn in a far darker mission than she was led to believe."
+  },
+  {
+    "id": 75,
+    "title": "Die Hard",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "primary_genre": "Action",
+    "summary": "A New York City police detective visiting his estranged wife at her company's Los Angeles Christmas party becomes the lone hero when heavily armed thieves seize the high-rise office tower and take everyone inside hostage."
+  },
+  {
+    "id": 76,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "primary_genre": "Action",
+    "summary": "In a parched, post-apocalyptic wasteland ruled by a tyrant who controls the water, a one-armed warrior smuggles a group of escaped wives across the desert in an armored war rig, joined by a haunted drifter and pursued by a fleet of brutal raiders."
+  },
+  {
+    "id": 77,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "primary_genre": "Action",
+    "summary": "Gotham City's masked vigilante and its idealistic new district attorney try to dismantle organized crime, but a chaotic, masked anarchist known as the Joker begins a campaign of terror designed to push the city, and its protectors, past the breaking point."
+  },
+  {
+    "id": 78,
+    "title": "John Wick",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "primary_genre": "Action",
+    "summary": "A retired hitman emerges from grief over his wife's death to take violent revenge on the Russian mob heir who broke into his home, killed the puppy his wife had left him, and stole his car. Old contracts and old enemies pull him back into a hidden assassin world."
+  },
+  {
+    "id": 79,
+    "title": "The Bourne Identity",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Mystery"
+    ],
+    "primary_genre": "Action",
+    "summary": "A man pulled from the Mediterranean with bullet wounds in his back and no memory of his name discovers he has the lethal skills of an elite agent. As shadowy operatives try to eliminate him, he races across Europe to uncover who he was."
+  },
+  {
+    "id": 80,
+    "title": "Mission: Impossible - Fallout",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "primary_genre": "Action",
+    "summary": "A veteran spy and his team must recover stolen plutonium cores before an extremist network detonates them, while navigating betrayals from inside their own agency and a freelance assassin shadowing every step of the chase."
+  },
+  {
+    "id": 81,
+    "title": "The Raid",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "primary_genre": "Action",
+    "summary": "A rookie SWAT officer is part of an elite team that storms a high-rise apartment building in Jakarta controlled by a ruthless drug lord. When the assault goes wrong, they must fight their way floor by floor against an army of armed tenants."
+  },
+  {
+    "id": 82,
+    "title": "Heat",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "primary_genre": "Action",
+    "summary": "A disciplined Los Angeles bank robber and the obsessive detective hunting him circle each other through a series of carefully planned heists. Their parallel lives, defined by craft and loneliness, build toward a final, inevitable confrontation."
+  },
+  {
+    "id": 83,
+    "title": "Aliens",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Horror"
+    ],
+    "primary_genre": "Action",
+    "summary": "The lone survivor of a doomed mining ship is awakened from hypersleep and convinced to accompany a unit of space marines back to a colony that has lost contact with Earth, where the same hostile alien species awaits in far greater numbers."
+  },
+  {
+    "id": 84,
+    "title": "Casino Royale",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "primary_genre": "Action",
+    "summary": "A newly promoted British secret agent is sent to a high-stakes poker tournament in Montenegro to bankrupt a banker who funds international terror. The mission becomes personal as he is drawn to a Treasury liaison sent to manage his stake."
+  },
+  {
+    "id": 85,
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "primary_genre": "Action",
+    "summary": "A reprogrammed cyborg from the future is sent back to protect the young son of a hardened survivor from a more advanced, shape-shifting machine sent to kill the boy and ensure a coming machine apocalypse."
+  },
+  {
+    "id": 86,
+    "title": "Speed",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "primary_genre": "Action",
+    "summary": "A Los Angeles SWAT officer must keep a city bus driving above fifty miles an hour after a vengeful former bomb-squad officer rigs it to explode if it slows down, helped by a passenger forced to take the wheel through midday traffic."
+  },
+  {
+    "id": 87,
+    "title": "The Avengers",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "primary_genre": "Action",
+    "summary": "A team of superheroes with clashing personalities is assembled by a covert agency to defend Earth from a banished god who has stolen a cosmic energy source and unleashed an alien army on New York City."
+  },
+  {
+    "id": 88,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "primary_genre": "Drama",
+    "summary": "A reserved banker sentenced to life in a Maine prison for a murder he says he did not commit slowly forms a friendship with a long-serving inmate. Over two decades behind the walls, he holds onto a quiet, patient hope of freedom."
+  },
+  {
+    "id": 89,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "primary_genre": "Drama",
+    "summary": "A kind-hearted Alabama man with a low IQ accidentally finds himself at the center of decades of American history, from the Vietnam War to college football to the early days of personal computing, while remaining devoted to the troubled girl he has loved since childhood."
+  },
+  {
+    "id": 90,
+    "title": "Schindler's List",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "primary_genre": "Drama",
+    "summary": "An ambitious German industrialist who initially exploits Jewish labor in occupied Poland for profit gradually risks his fortune and his life to save more than a thousand of his workers from extermination in Nazi concentration camps."
+  },
+  {
+    "id": 91,
+    "title": "12 Angry Men",
+    "year": 1957,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "primary_genre": "Drama",
+    "summary": "Twelve jurors deliberate the fate of a young man accused of murdering his father, with eleven ready to convict in time for the ballgame. A single skeptical juror slowly forces them to examine the evidence and their own prejudices over a sweltering afternoon."
+  },
+  {
+    "id": 92,
+    "title": "The Godfather",
+    "year": 1972,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "primary_genre": "Drama",
+    "summary": "The aging patriarch of a powerful New York Italian-American crime family begins to hand control to his reluctant youngest son. As rival families challenge their territory, the war drags the once-idealistic son into the violent heart of the business he tried to escape."
+  },
+  {
+    "id": 93,
+    "title": "Moonlight",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "primary_genre": "Drama",
+    "summary": "Three chapters in the life of a quiet Black man growing up in 1980s Miami trace his childhood as a bullied boy, his teenage years grappling with his sexuality, and his adulthood as a hardened drug dealer reaching back toward an old, formative friendship."
+  },
+  {
+    "id": 94,
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "primary_genre": "Drama",
+    "summary": "A relentless turn-of-the-century California oil prospector buys up land at any cost and clashes bitterly with a charismatic young preacher who claims the same community. Wealth, faith, and family devour each other across decades of California oil."
+  },
+  {
+    "id": 95,
+    "title": "Manchester by the Sea",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "primary_genre": "Drama",
+    "summary": "A solitary Boston janitor is forced to return to his coastal hometown after his brother's death to care for his teenage nephew. As he confronts the responsibility, the buried tragedy that drove him from the town years earlier resurfaces."
+  },
+  {
+    "id": 96,
+    "title": "Boyhood",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "primary_genre": "Drama",
+    "summary": "Filmed over twelve years with the same cast, the story follows a Texas boy from age six to eighteen as his divorced parents, sister, and shifting circumstances shape him through ordinary moments of growing up."
+  },
+  {
+    "id": 97,
+    "title": "The Pianist",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "primary_genre": "Drama",
+    "summary": "A Polish-Jewish concert pianist in Warsaw survives the Nazi occupation by hiding alone in ruined apartments and abandoned buildings, witnessing the destruction of his city and his community while clinging to the music that has defined his life."
+  },
+  {
+    "id": 98,
+    "title": "Lady Bird",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "primary_genre": "Drama",
+    "summary": "A spirited senior at a Catholic high school in early-2000s Sacramento yearns for a more interesting life on the East Coast while clashing constantly with her loving, exhausted mother through college applications, first relationships, and friendship."
+  },
+  {
+    "id": 99,
+    "title": "Whiplash",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "primary_genre": "Drama",
+    "summary": "An ambitious young drummer at an elite Manhattan music conservatory enters the orbit of a brilliant, abusive instructor whose punishing methods are designed to forge the next great jazz musician, no matter what it costs his student or himself."
+  },
+  {
+    "id": 100,
+    "title": "Parasite",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "primary_genre": "Drama",
+    "summary": "A struggling Korean family infiltrates the household of a wealthy one by posing as unrelated, highly skilled tutors and staff. Their carefully orchestrated arrangement begins to unravel when a buried secret about the rich family's home surfaces."
+  }
+]

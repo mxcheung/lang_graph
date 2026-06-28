@@ -1,0 +1,82 @@
+[
+  {
+    "title": "The Matrix",
+    "summary": "A computer programmer discovers reality is a simulated construct created by intelligent machines.",
+    "category": "Sci-Fi"
+  },
+  {
+    "title": "Blade Runner",
+    "summary": "A special police officer hunts down bioengineered humans called replicants who have escaped to Earth.",
+    "category": "Sci-Fi"
+  },
+  {
+    "title": "Ex Machina",
+    "summary": "A young programmer is asked to evaluate the consciousness of an advanced humanoid robot at a remote estate.",
+    "category": "Sci-Fi"
+  },
+  {
+    "title": "The Notebook",
+    "summary": "A young couple in 1940s South Carolina fall passionately in love over a single summer before war separates them.",
+    "category": "Romance"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "summary": "A sharp-tongued young woman meets a proud, wealthy gentleman she initially despises in Regency-era England.",
+    "category": "Romance"
+  },
+  {
+    "title": "When Harry Met Sally",
+    "summary": "Two friends meet on a road trip and spend a decade arguing whether men and women can ever be just friends.",
+    "category": "Romance"
+  },
+  {
+    "title": "The Shining",
+    "summary": "A writer takes a winter caretaker job at a remote snowbound hotel and descends into supernatural madness.",
+    "category": "Horror"
+  },
+  {
+    "title": "The Exorcist",
+    "summary": "Two Catholic priests are summoned to perform an exorcism on a young girl possessed by a malevolent demon.",
+    "category": "Horror"
+  },
+  {
+    "title": "The Conjuring",
+    "summary": "Paranormal investigators are called to a Rhode Island farmhouse where a family is terrorized by an unseen presence.",
+    "category": "Horror"
+  },
+  {
+    "title": "Die Hard",
+    "summary": "A New York cop becomes the lone hero when heavily armed thieves seize a Los Angeles office tower at Christmas.",
+    "category": "Action"
+  },
+  {
+    "title": "John Wick",
+    "summary": "A retired hitman takes violent revenge on the Russian mob heir who killed his dog and stole his car.",
+    "category": "Action"
+  },
+  {
+    "title": "The Dark Knight",
+    "summary": "Gotham's masked vigilante and its district attorney try to dismantle organized crime as the Joker spreads chaos.",
+    "category": "Action"
+  },
+  {
+    "title": "How to fix a flat tire",
+    "summary": "Use a jack to lift the car, remove the lug nuts in a star pattern, swap on the spare wheel, lower the car, and tighten the nuts in reverse.",
+    "category": "Outlier"
+  },
+  {
+    "title": "Going fishing at the lake",
+    "summary": "Cast your line into the water, wait patiently for a bite, reel in carefully when you feel a tug, and release smaller catches.",
+    "category": "Outlier"
+  },
+  {
+    "title": "Pasta carbonara recipe",
+    "summary": "Boil spaghetti until al dente, fry pancetta until crisp, whisk eggs with grated Pecorino Romano, combine with hot pasta off the heat.",
+    "category": "Outlier"
+  },
+  {
+    "title": "Learning Python basics",
+    "summary": "Install Python from python.org, write a hello world script, learn variables and loops, then explore lists and dictionaries.",
+    "category": "Outlier"
+  }
+]
