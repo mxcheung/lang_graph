@@ -28,3 +28,16 @@ $ python src/preprocess.py
 
 Saved 100 records to data\movies_clean.json
 ```
+
+
+$ python src/umap_analysis.py
+Loaded (16, 1536) from data\embeddings\umap_items_openai_text_small.json, using seed=42
+Saved plots\umap_analysis.png
+
+Outliers included for visual inspection:
+  - How to fix a flat tire
+  - Going fishing at the lake
+  - Pasta carbonara recipe
+  - Learning Python basics
+
+
