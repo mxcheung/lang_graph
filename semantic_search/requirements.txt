@@ -1,0 +1,25 @@
+# Core (Step 1 + embedding provider abstraction)
+openai>=1.0
+python-dotenv>=1.0
+numpy>=1.24
+#ollama>=0.4
+
+# Step 2 — FAISS for vector search and ANN
+faiss-cpu>=1.7
+
+# Step 3 — ChromaDB for persistent vector storage + metadata filtering
+chromadb>=0.4
+
+# ChromaDB needs SQLite >= 3.35; many Linux servers ship older
+pysqlite3-binary; platform_system == "Linux"  
+
+# Step 5 — UMAP for embedding-space visualization
+umap-learn>=0.5
+matplotlib>=3.7
+
+# Optional — Streamlit dashboard for browsing the Chroma collection at the end of Step 3.
+# Run from app/: `bash streamlit/run-chunk-browser.sh`
+# streamlit>=1.30
+
+# Tests — used by tests/step-*/*.py
+pytest>=7.0
